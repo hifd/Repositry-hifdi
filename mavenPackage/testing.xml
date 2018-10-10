@@ -1,0 +1,7 @@
+<suite name="Suite de test Maven" parallel="false">
+	<test name="Login">
+    	<classes>
+      		<class name="ProBook.LoginTest"/>
+    	</classes>
+  	</test>
+</suite>
